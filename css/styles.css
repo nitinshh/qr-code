@@ -1,0 +1,27 @@
+body {
+    background-color: slategray;
+    text-align: center;
+    margin: 30px auto 30px auto;
+    width: 350px;
+}
+
+.components {
+    background-color: antiquewhite;
+    border-style: groove;
+    padding: 20px;
+    line-height: 2;
+    border-radius: 30px;
+}
+
+.qr-img {
+    width: 100%;
+}
+
+.heading {
+    font-family: 'Nunito', sans-serif;
+    color: gray;
+}
+
+.line {
+    color: black;
+}
